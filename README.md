@@ -27,9 +27,4 @@ Python
 
 ---
 
-### Contact
-
-- Email: `benm.holloway@proton.me`
----
-
 *Currently figuring out how to turn "curious" into "employable."*
